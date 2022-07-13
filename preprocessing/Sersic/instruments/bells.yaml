@@ -1,0 +1,7 @@
+pixel_size: 0.04              # arcsec
+field_of_view: 10.0            # arcsec
+psf_fwhm: 0.09                # arcsec
+exposure_time: 2520.0         # seconds
+background_mag: 21.7          # AB magnitude
+zero_point: 26.493            # AB Magnitude
+filter: 'F606W_WFC'
