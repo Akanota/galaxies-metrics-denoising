@@ -240,10 +240,18 @@ We show some visualizations and how to load trained models in `notebooks/denoisi
 
 If find our work helpful to your research and/or using some of the code in this repository, please cite our paper
 ```tex
-@article{holzschuh2022real,
- author = {Holzschuh, Benjamin and O'Riordan, Conor and Vegetti, Simona and Rodriguez-Gomez, Vicente and Thuerey, Nils},
- title = {Realistic galaxy images and improved robustness in machine learning tasks from generative modelling},
- url = {https://doi.org/10.1093/mnras/stac1188},
+@article{10.1093/mnras/stac1188,
+    author = {Holzschuh, Benjamin J and O’Riordan, Conor M and Vegetti, Simona and Rodriguez-Gomez, Vicente and Thuerey, Nils},
+    title = {Realistic galaxy images and improved robustness in machine learning tasks from generative modelling},
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {515},
+    number = {1},
+    pages = {652-677},
+    year = {2022},
+    month = {05},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stac1188},
+    url = {https://doi.org/10.1093/mnras/stac1188},
+    eprint = {https://academic.oup.com/mnras/article-pdf/515/1/652/45026955/stac1188.pdf},
 }
 ```
-
